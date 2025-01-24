@@ -96,15 +96,5 @@ Generates a JSON metadata file listing the processed game directories and their 
 - Ensures directories are created only if they do not already exist.
 - Removes and overwrites directories during the copy operation to avoid conflicts.
 
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests for bug fixes or new features.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
-
-Enjoy processing your game directories efficiently!
 
